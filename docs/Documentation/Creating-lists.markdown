@@ -9,7 +9,7 @@ In Orchard, you can create custom content items and assign them as navigation me
 
 To begin, you will create a custom content type that represents a book review. 
 
-On the dashboard, click **Content**, and then click the **Content Types** tab. Click **Create New Type**, and then in the **Display Name** field, enter the name "Book Review". (The **Content Type ID** field automatically generates an ID value that is based on what you entered for the display name, but without spaces.) Click **Create** to finish creating the new type.  
+On the dashboard, click **Content Definition**, and then click the **Content Types** tab. Click **Create new type**, and then in the **Display Name** field, enter the name "Book Review". (The **Content Type ID** field automatically generates an ID value that is based on what you entered for the display name, but without spaces.) Click **Create** to finish creating the new type.  
 
 ![](../Upload/screenshots_675/create_newcustom_contentType_675.png)
 
